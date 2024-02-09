@@ -4,7 +4,11 @@ layout: default
 
 # Links
 
-* <a href="https://www.youtube.com/@halie-san"> <img src="./img/youtube.png" width="3%"> : YouTube - Halie-san (はりーさん)</a>
+* <a href="https://www.youtube.com/@halie-san">
+<img src="./img/youtube.png" width="3%">
+: YouTube - Halie-san (はりーさん)</a>
+* <a href="https://www.youtube.com/@halie-san-journey"> <img src="./img/youtube.png" width="3%"> : YouTube - halie-san Journey Ch.</a>
+
 
 
 
