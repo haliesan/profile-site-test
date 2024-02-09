@@ -2,7 +2,7 @@ title: halie-san / はりーさん
 domain: haliesan.github.io
 email: haliesan0x0@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm halie-san / はりーさん, Japanese pumpkin.
+  I'm halie-san/はりーさん, Japanese pumpkin.
 baseurl: "/test-20240202/" # the subpath of your site, e.g. /blog
 url: https://haliesan.github.io/
 show_downloads: false
