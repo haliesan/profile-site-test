@@ -4,9 +4,7 @@ layout: default
 
 # Links
 
-* ![YouTube - Halie-san (はりーさん)](./img/youtube.png) : YouTube - Halie-san (はりーさん)
-
-
+* <a href="https://www.youtube.com/@halie-san">![YouTube - Halie-san (はりーさん)](./img/youtube.png) : YouTube - Halie-san (はりーさん)</a>
 
 
 
@@ -32,7 +30,6 @@ layout: default
 
 ### There's a horizontal rule below this.
 
-* * *
 
 ### Here is an unordered list:
 
@@ -93,3 +90,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
