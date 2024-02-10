@@ -11,4 +11,3 @@ layout: default
 * <a href="https://twitter.com/haliesan_t_jp"> <img src="./img/twitter.png" width="20"> &nbsp; Twitter（self-styled/自称： <img src="./img/x_t.png" width="15"> ） </a>
 <!-- * <a href="https://haliesan.blogspot.com/"> <img src="./img/blogger.png" width="20"> &nbsp; Blogger </a> ～ In Preparation/準備中 ～ -->
 
-
